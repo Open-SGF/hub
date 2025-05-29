@@ -1,5 +1,8 @@
 # Open SGF Hub
 
+> [!WARNING]  
+> In order to make it easier for anyone in our org (especially those not familiar with git) to contribute to docs, we've moved to a hosted version of [Outline](https://www.getoutline.com/) available at [docs.opensgf.org](https://docs.opensgf.org)
+
 A centralized space for all of Open SGF operations. Including documentation, guides and details of projects and contributors.
 
 ## Contributing
